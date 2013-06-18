@@ -1,6 +1,6 @@
 name             'jaumann-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Millennial'
+maintainer_email 'jaumann@millennialmedia.com'
 license          'All rights reserved'
 description      'Installs/Configures jaumann-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
